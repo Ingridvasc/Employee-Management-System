@@ -1,0 +1,11 @@
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem.Data\bin\Debug\EmployeeManagementSystem.Data.dll.config
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem.Data\bin\Debug\EmployeeManagementSystem.Data.dll
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem.Data\bin\Debug\EmployeeManagementSystem.Data.pdb
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.dll
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.xml
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.dll
+F:\Sem.4\C# Projects\Trials\Employee-Management-System-master\EmployeeManagementSystem.Data\obj\Debug\EmployeeManagementSystem.Data.pdb
