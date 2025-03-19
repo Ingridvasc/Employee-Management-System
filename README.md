@@ -10,6 +10,7 @@ This project uses advanced Machine Learning techniques to analyze historical fin
 - [🛠 Features](#-features)
 - [🖥 Technologies Used](#-technologies-used)
 - [📦 Prerequisites](#-prerequisites)
+- [🖥️ System](#-system) 
 - [✏️ Author](#-author)
 
 ## 🌟 Overview <a name="-overview"></a>
@@ -49,6 +50,10 @@ The Employee Management System is designed to streamline the process of managing
 - Node.js and npm for frontend development.
 
 - SQL Server for database management.
+
+## 🖥️ System <a name="-system"></a>
+
+![Image of system](https://github.com/user-attachments/assets/43dc7082-970e-47a5-959c-e067153f29bf)
 
 ## ✏️ Author <a name="-author"></a>
 
